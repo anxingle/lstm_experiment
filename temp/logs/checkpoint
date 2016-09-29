@@ -1,0 +1,6 @@
+model_checkpoint_path: "train_ctc.tfmodel-610"
+all_model_checkpoint_paths: "train_ctc.tfmodel-570"
+all_model_checkpoint_paths: "train_ctc.tfmodel-580"
+all_model_checkpoint_paths: "train_ctc.tfmodel-590"
+all_model_checkpoint_paths: "train_ctc.tfmodel-600"
+all_model_checkpoint_paths: "train_ctc.tfmodel-610"
